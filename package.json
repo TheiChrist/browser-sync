@@ -23,6 +23,6 @@
     "sinon": "^1",
     "supertest": "^3",
     "typescript": "3.0.3",
-    "webpack": "^4"
+    "webpack": "^5"
   }
 }
